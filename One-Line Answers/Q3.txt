@@ -1,0 +1,9 @@
+
+
+A. Reverse-i-search in a Linux terminal is a functionality designed to facilitate the retrieval of previously entered commands from the command history. By inputting a partial command and subsequently pressing Ctrl + R, this feature retrieves the most recent command that aligns with the provided input, effectively streamlining command history navigation.
+
+B. To enumerate concealed directories in a Linux environment via the command line, one can employ the command: `ls -a`. This command, when executed, produces a listing of all directories and files, including those that are typically hidden from view.
+
+C. While I lack direct experience with Linux-based operating systems such as Ubuntu and CentOS, I am enthusiastic about acquiring the knowledge and proficiency required to navigate and utilize these platforms effectively.
+
+D. I have not previously engaged in the utilization of servers for hosting web applications. However, I am well-equipped to guide the setup and configuration of diverse services commonly employed for this purpose, including Apache, Nginx, FTP, SMTP, and others.
